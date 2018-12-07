@@ -1,0 +1,46 @@
+body{
+	background:linear-gradient(#D8BFD8, white);
+
+}
+h1 {
+	color: white; 
+	text-align: center;
+	margin-right: 53%;
+    border: 2px solid white;
+    background: grey;
+	padding: 5px;
+}
+h3 {
+	color: white; 
+	border: 2px solid grey;
+    margin-right:53%;
+    background: grey;
+	padding: 1px;
+}
+ul {
+	font-style: italic;
+}
+.text {
+	font-size: 90%;
+	font-style: italic;
+}
+.colortext {
+	font-size: 120%;
+}
+
+.conrainer {
+    display:block; padding:5px; 
+}
+
+.left {
+	background-color: red;
+    width: 50%; border:1px solid grey;
+}
+.right {
+	width: 50%; float: right; 
+	position: relative;
+	top: -700px;
+ }
+ img {
+ 	 border: 5px solid grey; border-radius: 100%;
+}
