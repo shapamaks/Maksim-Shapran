@@ -1,0 +1,5 @@
+[Fri Feb 01 2019 22:01:39 GMT+0200 (Финляндия (зима))] layer "Rectangle 8.jpg": Duplicate path: Rectangle 8.jpg
+[Fri Feb 01 2019 22:01:39 GMT+0200 (Финляндия (зима))] layer "Rectangle 9.jpg": Duplicate path: Rectangle 9.jpg
+[Fri Feb 01 2019 22:01:39 GMT+0200 (Финляндия (зима))] layer "Rectangle 8.jpg": Duplicate path: Rectangle 8.jpg
+[Fri Feb 01 2019 22:01:39 GMT+0200 (Финляндия (зима))] layer "Rectangle 9.jpg": Duplicate path: Rectangle 9.jpg
+[Fri Feb 01 2019 22:01:39 GMT+0200 (Финляндия (зима))] layer "Lorem ipsum do                   consectetur adipisicing elit, ": Expected end of input but "," found.

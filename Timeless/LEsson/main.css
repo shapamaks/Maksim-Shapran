@@ -1,0 +1,19 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.main {
+	border: 2px solid red;
+}
+.fist {
+	display: flex;
+}
+.second {
+	display: flex;
+}
+.third {
+	display: flex;
+}
+.five {
+	display: flex;
+}

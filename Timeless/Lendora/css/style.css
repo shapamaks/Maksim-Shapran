@@ -1,0 +1,87 @@
+body {
+	padding: 0;
+	margin: 0;
+	font-family: Arial, sans-serif;
+	background: url(../img/background-head.png) no-repeat center top / 
+	 cover;
+	 position: relative;
+   
+  width: 100vw;
+  
+  left: 50%;
+  transform: translate(-50%);
+	
+}
+
+div {
+	box-sizing: border-box;
+}
+header {
+	
+
+}
+
+.container {
+	width: 1109px;
+	margin: 0 auto;
+}
+.logo {
+
+}
+
+nav {
+	background: url(../img/header-line.png);
+	
+}
+
+
+
+.menu li {
+	
+	display: flex;
+	justify-content: flex-end;
+	margin-left: 25px;
+	padding-left: 84px;
+	
+}
+
+
+.menu a {
+	color: #000;
+	text-decoration: none;
+	font-size: 21px;
+}
+
+.titles {
+
+    color: white;
+	padding-top: 230px;
+    font-size: 20px;
+}
+
+.button {
+	background: #66cc66;
+	color: #000;
+	border-radius: 3px;
+	display: block;
+	width: 212px;
+	padding: 20px 0;
+	margin: 0 auto;
+	text-decoration: none;
+	text-align: center;
+	font-size: 21px;
+	margin-top: 130px;
+
+}
+
+.modele {
+padding-top: 10px;
+}
+
+.modele h2 {
+	font-size: 21px;
+	text-align: center;
+	text-transform: uppercase;
+	color: #blue;
+	margin: 125px;
+	}
